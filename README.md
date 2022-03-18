@@ -3,7 +3,7 @@
 Rosas Tenorio Mikaela 20200335
 
 ´´´ Python
-# INSTALANDO 
+## INSTALANDO 
 !pip install selenium
 from bs4 import BeautifulSoup
 from selenium import webdriver
