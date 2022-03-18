@@ -1,6 +1,7 @@
 # REZAGADO-LPII
 ## INTEGRANTES:
 Rosas Tenorio Mikaela 20200335
+Yucra Paredes Carmen
 
 ## INSTALANDO 
 ´´´ Python
