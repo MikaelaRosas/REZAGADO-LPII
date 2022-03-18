@@ -2,7 +2,7 @@
 ## INTEGRANTES:
 Rosas Tenorio Mikaela 20200335
 
-
+'''Python
 #INSTALANDO 
 !pip install selenium
 from bs4 import BeautifulSoup
@@ -20,3 +20,4 @@ import os
 import pandas as pd
 import urllib.request, urllib.parse, urllib.error
 import re
+'''
