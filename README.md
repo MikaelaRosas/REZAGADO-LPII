@@ -1,6 +1,6 @@
 # REZAGADO-LPII
 ## INTEGRANTES:
-Rosas Tenorio Mikaela 20200335
+Rosas Tenorio Mikaela 20200335  
 Yucra Paredes Carmen
 
 ## INSTALANDO 
