@@ -21,5 +21,4 @@ import os
 import pandas as pd
 import urllib.request, urllib.parse, urllib.error
 import re
-
 ´´´
